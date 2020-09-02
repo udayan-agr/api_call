@@ -1,0 +1,50 @@
+const d1 = {
+	"body": [
+		{
+			"name": "Rambo",
+			"profession": "boxing",
+			"actor": "Sylvester Stallone",
+			"rating": "4"
+		},
+		{
+			"name": "Terminator",
+			"profession": "terminate",
+			"actor": "Arnold Schwarzenegger",
+			"rating": "5"
+		},
+		{
+			"name": "Tony Stark",
+			"profession": "iron man",
+			"actor": "Robert Downey Jr.",
+			"rating": "3000"
+		},
+		{
+			"name": "James Bond",
+			"profession": "spy",
+			"actor": "Daniel Craig",
+			"rating": "4"
+		}
+	]
+};
+const d2 = {
+	"body": [
+		{
+			"name": "Batman",
+			"profession": "superhero",
+			"actor": "Christian Bale",
+			"rating": "3"
+		},
+		{
+			"name": "Joker",
+			"profession": "villain",
+			"actor": "Heath Ledger",
+			"rating": "5"
+		},
+		{
+			"name": "Arya Stark",
+			"profession": "no one",
+			"actor": "Maisie Williams",
+			"rating": "❤️❤️❤️"
+		}
+	]
+}
